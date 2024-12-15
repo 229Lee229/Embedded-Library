@@ -30,7 +30,7 @@ return 0;
 
 // Here is an example of cjson
 
->   { "Type": 101,
+>    { "Type": 101,
 >
 >     "Time": 1744533467325,
 >
