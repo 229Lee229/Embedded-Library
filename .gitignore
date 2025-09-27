@@ -17,6 +17,10 @@
 *.uvoptx
 Long press & Short press
 
+/LED-Driver-7000D/*
+!/LED-Driver-7000D/7000D-5ch.PcbDoc
+!/LED-Driver-7000D/7000D-5ch.SchDoc
+
 
 # Prerequisites
 *.d
